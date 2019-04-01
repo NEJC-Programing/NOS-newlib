@@ -1,5 +1,6 @@
 # README for GNU development tools
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1e1b41ab6b3241508dddb4de88f15bb0)](https://www.codacy.com/app/NHTHEBEST/NOS-newlib?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=NEJC-Programing/NOS-newlib&amp;utm_campaign=Badge_Grade)
+
 This directory contains various GNU compilers, assemblers, linkers, 
 debuggers, etc., plus their support routines, definitions, and documentation.
 
